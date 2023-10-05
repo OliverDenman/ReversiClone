@@ -1,0 +1,12 @@
+./FakeTextView.java
+./GUIView.java
+./IController.java
+./IModel.java
+./IView.java
+./PGPInput.java
+./ReversiController.java
+./ReversiMain.java
+./SimpleController.java
+./SimpleModel.java
+./SimpleTestModel.java
+./TextView.java
